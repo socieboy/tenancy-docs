@@ -1027,8 +1027,8 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var high
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/krisa/dev/tenancy-docs/source/_assets/js/main.js */"./source/_assets/js/main.js");
-module.exports = __webpack_require__(/*! /Users/krisa/dev/tenancy-docs/source/_assets/css/main.css */"./source/_assets/css/main.css");
+__webpack_require__(/*! /Users/samuel/Projects/docs3/source/_assets/js/main.js */"./source/_assets/js/main.js");
+module.exports = __webpack_require__(/*! /Users/samuel/Projects/docs3/source/_assets/css/main.css */"./source/_assets/css/main.css");
 
 
 /***/ })
