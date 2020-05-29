@@ -1,11 +1,9 @@
-<!DOCTYPE HTML>
-<html lang="en-US">
-<head>
-    <meta charset="UTF-8">
-    <!-- <meta http-equiv="refresh" content="0; url={{ $page->baseUrl . '/' . $page->defaultVersion }}/"> -->
-    <title>stancl/tenancy</title>
-</head>
-<body>
-    This will be index product page of tenancy.
-</body>
-</html>
+@extends('_layouts.master')
+
+
+
+@section('body')
+<section class="container max-w-4xl px-6 py-4 mx-auto md:px-8">
+    <h1>Documentation </h1>
+</section>
+@endsection

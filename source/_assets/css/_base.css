@@ -13,13 +13,13 @@ a {
 }
 
 blockquote {
-    @apply .border-blue-200;
+    @apply border-blue-100;
     @apply .border-l-4;
     @apply .font-normal;
     @apply .italic;
     @apply .my-8;
     @apply .pl-6;
-    @apply .text-gray-600;
+    @apply .text-gray-800;
     @apply .text-lg;
 }
 
@@ -39,7 +39,7 @@ code.hljs {
     .hljs-keyword,
     .hljs-meta {
         @apply .font-normal;
-        @apply .roman;
+        /* @apply .roman; */
     }
 }
 

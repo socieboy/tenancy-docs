@@ -1,15 +1,13 @@
 @tailwind base;
 @tailwind components;
 
-// Code syntax highlighting,
-// powered by https://highlightjs.org
+
 @import 'highlight';
 
 @import 'base';
 @import 'navigation';
 @import 'documentation';
 @import 'search';
-
 
 
 @tailwind utilities;
